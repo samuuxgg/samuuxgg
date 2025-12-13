@@ -18,5 +18,12 @@
 ---
 
 <p align="center">
-  <i>https://twitter.com/ysamuuxgg_</i>
+ <a href="https://twitter.com/ysamuuxgg_">
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+    width="28"
+    style="filter: invert(1);"
+  />
+</a>
+
 </p>
