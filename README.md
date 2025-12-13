@@ -18,5 +18,5 @@
 ---
 
 <p align="center">
-  <i>Focused on learning, building, and improving every day.</i>
+  <i>https://twitter.com/ysamuuxgg_</i>
 </p>
