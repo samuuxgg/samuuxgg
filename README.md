@@ -15,13 +15,6 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samuuxgg&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-
-
----
 
 <p align="center">
  <a href="https://twitter.com/ysamuuxgg_">
@@ -33,3 +26,11 @@
 </a>
 
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuuxgg/samuuxgg/output/github-snake-dark.svg" />
+</p>
+
+
