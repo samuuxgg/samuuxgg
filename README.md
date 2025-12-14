@@ -14,6 +14,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
+---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samuuxgg&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+
 
 ---
 
