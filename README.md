@@ -19,13 +19,13 @@
 ---
 
 <p align="center">
- <a href="https://twitter.com/ysamuuxgg_">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
-    width="28"
-    style="filter: invert(1);"
-  />
-</a>
+  <a href="https://discord.com/users/986738980508819476" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile" />
+  </a>
+</p>
+
+
+
 
 </p>
 
