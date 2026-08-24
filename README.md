@@ -1,8 +1,3 @@
-<h1 align="center">Hi, I'm Samuux 👋</h1>
----
-
-  ### Languages
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
